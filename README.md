@@ -1,0 +1,1 @@
+Coding Challenge 06: I'll design an object-oriented system to manage employees and managers using JavaScript classes
