@@ -21,4 +21,4 @@ This project is a JavaScript-based workforce management system built using **Obj
 ## 🏃 How to Run Locally
 **Clone the repository:**
    ```bash
-   git clone https://github.com/hientran20040303/oop-employee-management-system
+   git clone https://github.com/hientran20040303/employee-management-system
